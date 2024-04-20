@@ -11,7 +11,7 @@ template: page
 
 :::{.sidenote}
 
-Find GM materials [here](./private).
+Find GM materials [here](./gm).
 
 :::
 
