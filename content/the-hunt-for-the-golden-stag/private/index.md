@@ -12,10 +12,10 @@ template: page
 # Contents
 
 - ### Creatures and NPCs
-- [Other Hunters](creatures/other-hunters)
-- [Golden Stag](creatures/golden-stag)
-- [White Stag](creatures/white-stag)
-- [White Stag (Injured)](creatures/white-stag/injured)
+- [Other Hunters](./creatures/other-hunters)
+- [Golden Stag](./creatures/golden-stag)
+- [White Stag](./creatures/white-stag)
+- [White Stag (Injured)](./creatures/white-stag/injured)
 - [Monsters](/wip)
 
 :::

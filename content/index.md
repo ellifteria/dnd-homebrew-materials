@@ -12,15 +12,15 @@ template: page
 # Contents
 
 - ### Adventures
-- [The Hunt for the Golden Stag](the-hunt-for-the-golden-stag)
+- [The Hunt for the Golden Stag](/the-hunt-for-the-golden-stag)
 - ### Locations
-- [The Library](wip)
-- [The Teashop at the End of Time](wip)
+- [The Library](/wip)
+- [The Teashop at the End of Time](/wip)
 - ### Characters
-- [Nimuë Tynnuviel](wip)
-- [Zana](wip)
-- [Élysainne](wip)
-- [Yvènne](wip)
+- [Nimuë Tynnuviel](/wip)
+- [Zana](/wip)
+- [Élysainne](/wip)
+- [Yvènne](/wip)
 
 :::
 
