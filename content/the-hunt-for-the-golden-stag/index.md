@@ -11,7 +11,7 @@ template: page
 
 :::{.sidenote}
 
-Find GM materials [here](./gm).
+Find GM materials [here](/the-hunt-for-the-golden-stag/gm).
 
 :::
 
